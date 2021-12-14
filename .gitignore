@@ -2,3 +2,5 @@
 **/.tmcproject.yml
 **/pom.xml
 **/src/test
+**/.tmcproject.json
+**/.checkstyle.xml
