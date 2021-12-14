@@ -1,0 +1,4 @@
+**/target
+**/.tmcproject.yml
+**/pom.xml
+**/src/test
